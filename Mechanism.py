@@ -16,8 +16,8 @@ from docx.oxml import OxmlElement
 warnings.filterwarnings('ignore')
 
 # ---------- 1. Environment & Parameter Settings ----------
-#data_folder = r'C:\Users\kangf\Data'
-#file_path = os.path.join(data_folder, 'researchdata1.xlsx')
+#data_folder = #please enter folder
+#file_path = os.path.join(data_folder, '.xlsx')
 #df_raw = pd.read_excel(file_path).dropna().reset_index(drop=True)
 
 T_vars = ['Trans_Risk']
